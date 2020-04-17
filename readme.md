@@ -2,7 +2,9 @@
 
 This project uses `pipenv` as a package management tool. If you don't have `pipenv` installed, then install it by
 
-`pip install pipenv`
+``` bash
+pip install pipenv
+```
 
 ### Quick Start Using Pipenv
 
